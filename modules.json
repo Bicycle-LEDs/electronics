@@ -1,14 +1,10 @@
 [
   {
-    "name": "Accumulator",
-    "path": "accumulator"
-  },
-  {
     "name": "Controller",
     "path": "controller"
   },
   {
-    "name": "Tester",
-    "path": "This is function to call error in docs on website"
+    "name": "Accumulator",
+    "path": "accumulator"
   }
 ]
