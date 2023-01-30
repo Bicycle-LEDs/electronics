@@ -1,5 +1,8 @@
 [
   {
+    "version": "23.01.30-1"
+  },
+  {
     "name": "Controller",
     "path": "controller"
   },
