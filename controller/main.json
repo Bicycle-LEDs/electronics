@@ -1,6 +1,8 @@
 {
   "name": "Main electronic circuit",
-  "picture": "main.png",
+  "pictures": [
+    "main.png"
+  ],
   "subtitle": "",
   "description": [
 
@@ -8,7 +10,7 @@
 
   "components": [
 
-  ]
+  ],
 
-
+  "disabled": "true"
 }

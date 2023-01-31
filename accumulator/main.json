@@ -1,6 +1,8 @@
 {
   "name": "9.6 - 12.6V 3S Accumulator",
-  "picture": "schema.png",
+  "pictures": [
+    "schema.png"
+  ],
   "subtitle": "Used to power whole circuit",
   "description": [
 
@@ -11,7 +13,9 @@
     {
       "name": "USB C to 12.6V charging module",
       "menuname": "Charger",
-      "picture": "charger.png",
+      "pictures": [
+        "charger.png"
+      ],
       "description": "",
       "buylinks": [
         {
@@ -24,7 +28,9 @@
     {
       "name": "3S Balancer and protection board",
       "menuname": "Balancer",
-      "picture": "controller.png",
+      "pictures": [
+        "controller.png"
+      ],
       "description": "",
       "buylinks": [
         {
@@ -37,7 +43,9 @@
     {
       "name": "18650 3.7V Li-ion cell",
       "menuname": "Cell",
-      "picture": "18650-cell.png",
+      "pictures": [
+        "18650-cell.png"
+      ],
       "description": "",
       "buylinks": [
         {
@@ -50,7 +58,9 @@
     {
       "name": "4-pin DIN connector",
       "menuname": "Plug",
-      "picture": "plug.png",
+      "pictures": [
+        "plug.png"
+      ],
       "description": "",
       "buylinks": [
         {
